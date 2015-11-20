@@ -2,8 +2,6 @@
 
 :tada:
 
-Jessica Vliet
-
 Enjoy… 
 
 ###Collaborators:
@@ -15,3 +13,5 @@ Maxwell Oscar Oldham (MooMoo)
 Richard
 
 Taco
+
+Jessica Vliet
